@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IK_BV1/1.0.0": {
+        "runtime": {
+          "IK_BV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IK_BV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
