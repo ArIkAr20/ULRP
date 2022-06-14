@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\IK4P\IK4P\bin\Debug\net6.0\IK5P.exe
+C:\Users\89132\source\repos\IK4P\IK4P\bin\Debug\net6.0\IK5P.deps.json
+C:\Users\89132\source\repos\IK4P\IK4P\bin\Debug\net6.0\IK5P.runtimeconfig.json
+C:\Users\89132\source\repos\IK4P\IK4P\bin\Debug\net6.0\IK5P.dll
+C:\Users\89132\source\repos\IK4P\IK4P\bin\Debug\net6.0\IK5P.pdb
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.AssemblyInfo.cs
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.dll
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\refint\IK5P.dll
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.pdb
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\IK5P.genruntimeconfig.cache
+C:\Users\89132\source\repos\IK4P\IK4P\obj\Debug\net6.0\ref\IK5P.dll
