@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\IK2P\IK2P\bin\Debug\net6.0\IK2P.exe
+C:\Users\89132\source\repos\IK2P\IK2P\bin\Debug\net6.0\IK2P.deps.json
+C:\Users\89132\source\repos\IK2P\IK2P\bin\Debug\net6.0\IK2P.runtimeconfig.json
+C:\Users\89132\source\repos\IK2P\IK2P\bin\Debug\net6.0\IK2P.dll
+C:\Users\89132\source\repos\IK2P\IK2P\bin\Debug\net6.0\IK2P.pdb
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.AssemblyInfo.cs
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.dll
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\refint\IK2P.dll
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.pdb
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\IK2P.genruntimeconfig.cache
+C:\Users\89132\source\repos\IK2P\IK2P\obj\Debug\net6.0\ref\IK2P.dll
