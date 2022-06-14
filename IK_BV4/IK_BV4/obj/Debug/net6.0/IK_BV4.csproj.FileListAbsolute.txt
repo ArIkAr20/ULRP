@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\bin\Debug\net6.0\IK_BV4.exe
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\bin\Debug\net6.0\IK_BV4.deps.json
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\bin\Debug\net6.0\IK_BV4.runtimeconfig.json
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\bin\Debug\net6.0\IK_BV4.dll
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\bin\Debug\net6.0\IK_BV4.pdb
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.AssemblyInfo.cs
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.dll
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\refint\IK_BV4.dll
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.pdb
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\IK_BV4.genruntimeconfig.cache
+C:\Users\89132\source\repos\IK_BV4\IK_BV4\obj\Debug\net6.0\ref\IK_BV4.dll

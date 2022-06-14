@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\IK1P1\IK1P1\bin\Debug\net6.0\IK1P1.exe
+C:\Users\89132\source\repos\IK1P1\IK1P1\bin\Debug\net6.0\IK1P1.deps.json
+C:\Users\89132\source\repos\IK1P1\IK1P1\bin\Debug\net6.0\IK1P1.runtimeconfig.json
+C:\Users\89132\source\repos\IK1P1\IK1P1\bin\Debug\net6.0\IK1P1.dll
+C:\Users\89132\source\repos\IK1P1\IK1P1\bin\Debug\net6.0\IK1P1.pdb
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.AssemblyInfo.cs
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.dll
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\refint\IK1P1.dll
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.pdb
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\IK1P1.genruntimeconfig.cache
+C:\Users\89132\source\repos\IK1P1\IK1P1\obj\Debug\net6.0\ref\IK1P1.dll
