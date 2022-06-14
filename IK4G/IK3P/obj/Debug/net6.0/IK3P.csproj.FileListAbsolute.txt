@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\IK3P\IK3P\bin\Debug\net6.0\IK3P.exe
+C:\Users\89132\source\repos\IK3P\IK3P\bin\Debug\net6.0\IK3P.deps.json
+C:\Users\89132\source\repos\IK3P\IK3P\bin\Debug\net6.0\IK3P.runtimeconfig.json
+C:\Users\89132\source\repos\IK3P\IK3P\bin\Debug\net6.0\IK3P.dll
+C:\Users\89132\source\repos\IK3P\IK3P\bin\Debug\net6.0\IK3P.pdb
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.AssemblyInfo.cs
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.dll
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\refint\IK3P.dll
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.pdb
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\IK3P.genruntimeconfig.cache
+C:\Users\89132\source\repos\IK3P\IK3P\obj\Debug\net6.0\ref\IK3P.dll
